@@ -2,7 +2,6 @@
 
 CLASS.name = "Allied Officer"
 CLASS.faction = FACTION_ALLIEDPOWERS
-CLASS.weapons.add("tfa_codww2_thompson")
 
 --[[ Helix Base Config ]]--
 CLASS.isDefault = false 

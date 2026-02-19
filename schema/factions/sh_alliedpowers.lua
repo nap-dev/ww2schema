@@ -3,6 +3,7 @@
 -- faction that will always be available without any whitelists and etc.
 
 FACTION.name = "Allied Powers"
+FACTION.isDefault = true
 FACTION.description = "The Allied Powers were an international coalition formed during World War II to oppose the Axis powers."
 FACTION.color = Color(60, 74, 100)
 FACTION.pay = 10

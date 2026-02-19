@@ -3,6 +3,7 @@
 -- whitelisted by an administrator.
 
 FACTION.name = "Axis Powers"
+FACTION.isDefault = true
 FACTION.description = "The Axis powers were the military coalition which initiated World War II and fought against the Allies."
 FACTION.color = Color(185, 20, 20)
 FACTION.pay = 10 -- How much money every member of the faction gets paid at regular intervals.
