@@ -1,8 +1,8 @@
 
-"skeleton"
+"ixww2rp"
 {
 	"base" 			"helix"
-	"title" 		"Skeleton"
+	"title" 		"World War 2 RP"
 	"author" 		"nebulous"
 	"menusystem"	"1"
 }
